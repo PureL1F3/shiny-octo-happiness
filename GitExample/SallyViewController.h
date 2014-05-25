@@ -8,6 +8,9 @@
 
 #import <UIKit/UIKit.h>
 
+
 @interface SallyViewController : UIViewController
+
+-(IBAction)test:(id)sender;
 
 @end
